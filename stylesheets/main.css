@@ -1,0 +1,98 @@
+.titleBackground {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+.whiteTextLarge {
+  color: white;
+  height: 50px;
+  font-size: 50px;
+}
+
+.login {
+  background-color: green;
+  height: 117px;
+  width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.menuBackground {
+  background-color: blue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.menuItem {
+  color: white;
+  font-weight: bold;
+}
+
+.DAMBackground {
+  background-image: url('https://github.com/caden-jarrett/static_challenges/blob/master/images/1.jpg?raw=true');
+  height: 1200px;
+  backkground-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 30px;
+}
+
+.headerStyle {
+  font_size: 30px;
+}
+
+.whiteTextSmall {
+  color: white;
+  height: 50px;
+  font-size: 25px;
+  padding-top: 10px;
+}
+
+.whiteTextSmaller {
+  color: white;
+  height: 50px;
+  font-size: 21.5px;
+}
+
+.paragraphsBackground {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px
+}
+
+.picturesSectionBackground {
+  padding: 30px 0px 20px 0px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly
+}
+
+.imageTitle {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.lastParagraphsBackground {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+}
+
+.blackPhotosText {
+  color: black;
+  font-size: 30px;
+
+}
+.paragraphPadding {
+  padding-top: 10px;
+}
